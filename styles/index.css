@@ -1,0 +1,76 @@
+body {
+    max-width: 90%;
+    height: 900px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 6;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    grid-gap: 15px;
+    border: 5px solid black;
+    height: 800px;
+}
+
+.grid-item  {
+    border: 10px solid;
+}
+
+.item-1 {
+    color: rgb(96, 226, 117);
+    background-color: rgb(96, 226, 117);
+}
+
+.item-2 {
+    color: rgb(40, 145, 57);
+    background-color: rgb(40, 145, 57);
+}
+
+.item-3 {
+    color: rgb(112, 211, 31);
+    background-color:
+}
+
+.item-4 {
+    color: rgb(179, 233, 30);
+    background-color:
+}
+
+.item-5 {
+    color: rgb(216, 230, 20);
+    background-color:
+}
+
+.item-6 {
+    color: rgb(238, 255, 0);
+    background-color:
+}
+
+.item-7 {
+    color: rgb(226, 197, 32);
+    background-color:
+}
+
+.item-8 {
+    color: rgb(236, 167, 18);
+    background-color:
+}
+
+.item-9 {
+    color: rgb(214, 124, 6);
+    background-color:
+}
+
+.item-10 {
+    color: rgb(214, 89, 6);
+}
+
+.item-11 {
+    color: rgb(218, 62, 0);
+}
+
+.item-12 {
+    color: rgb(214, 6, 6);
+}
